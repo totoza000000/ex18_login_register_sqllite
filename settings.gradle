@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "ex18_login_register_sqllite"

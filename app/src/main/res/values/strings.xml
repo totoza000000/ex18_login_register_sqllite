@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ex18_login_register_sqllite</string>
+    <string name="login">เข้าใช้งาน</string>
+    <string name="register">ลงทะเบียน</string>
+    <string name="name">กรุณาใส่ ชื่อ นามสกุล</string>
+    <string name="email">กรุณาใส่ e mail ที่ลงทะเบียนไว้</string>
+    <string name="email_register">กรุณาใส่ e mail</string>
+    <string name="username">กรุณาใส่ชื่อล็อกอิน</string>
+    <string name="password">กรุณาใส่ รหัสผ่าน</string>
+    <string name="confirmpassword">กรุณายืนยัน รหัสผ่าน</string>
+    <string name="welcome">ยินดีต้อนรับ</string>
+    <string name="exit">กดปุ่ม back เพื่อออก</string>
+</resources>
